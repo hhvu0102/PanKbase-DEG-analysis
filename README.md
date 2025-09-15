@@ -8,7 +8,7 @@ This directory contains Jupyter notebooks with details about how to execute code
 - `2_DEG-analysis.R.ipynb`: Jupyter notebook with instructions on how to run DEG analysis using latent variables with RUVSeq and DESeq2.
 
 ## Container
-A Singularity container with R packages can be found at
+A Singularity container with R packages can be found at https://cloud.sylabs.io/library/hhvu/r_4.3.1/r_4.3.1
 
 ## Contact
 Ha Vu (vthihong at umich.edu) and Stephen Parker (scjp at umich.edu)
